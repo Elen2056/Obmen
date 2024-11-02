@@ -68,3 +68,4 @@ currency_label.pack(padx=10, pady=10)
 Button(text="Получить курс обмена", command=exchange).pack(padx=10, pady=10)
 
 window.mainloop()
+#
